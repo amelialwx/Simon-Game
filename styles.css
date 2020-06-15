@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  background-color: #1128AB;
+  margin: 70px;
+}
+
+button {
+  height: 250px;
+  width: 250px;
+  margin: 25px;
+  border-radius: 50%;
+  border: 10px solid black;
+  outline-style: none;
+}
+
+.container {
+  margin: 100px auto;
+  display: inline-block;
+}
+
+.title, .game {
+  font-family: "Press Start 2P";
+  color: #f9da7b;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.game {
+  font-size: 5rem;
+  text-shadow: 10px 5px #440404;
+}
+
+.button1 {
+  background-color: green;
+}
+
+.button2 {
+  background-color: red;
+}
+
+.button3 {
+  background-color: yellow;
+}
+
+.button4 {
+  background-color: blue;
+}
