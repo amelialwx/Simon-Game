@@ -1,5 +1,5 @@
 # Simon Game
-Web game made based off the real Simon memory game. Made through the London App Brewery Bootcamp.
+Web game made based off the real Simon memory game.
 
 ## Demo
 ![simon-game](simon-game.gif)
